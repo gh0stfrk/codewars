@@ -1,0 +1,15 @@
+{
+  "name": "ipvalidation",
+  "version": "1.0.0",
+  "description": "Validated IPV4",
+  "main": "problem.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "SalmanS",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
